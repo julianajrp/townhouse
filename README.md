@@ -1,5 +1,3 @@
-# townhouse
-A Web Aplication that help land lords to administrate their buildings
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
